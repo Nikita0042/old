@@ -61,7 +61,7 @@ PART 2
 > $ git commit -m"change in hello_world" -a
 > $ git push origin patch1
 
-Berendei-Jr wants to merge 1 commit into main from patch1
+Nikita0042 wants to merge 1 commit into main from patch1
   >    $ nano hello_world.cpp
 #include <iostream>
 int main (){
@@ -92,7 +92,7 @@ PART 3
 
 > $ git checkout patch2
 
-Необходимо 	установить утилиту clang-format командой $ sudo apt install clang-format
+Нужно установить утилиту clang-format командой $ sudo apt install clang-format
 
 > $ clang-format -style=Mozilla hello_world.cpp
 
